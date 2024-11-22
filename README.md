@@ -35,3 +35,7 @@ UAS
 Nilai Akhir=(Tugas×0.3)+(UTS×0.35)+(UAS×0.35)
 Menu: Program terus berjalan hingga pengguna memilih opsi Keluar.
 Program ini dapat langsung dijalankan di Python untuk mengelola data nilai mahasiswa.
+ 
+ berikut flowchart
+
+ ![gambar](ss/P64.png)
